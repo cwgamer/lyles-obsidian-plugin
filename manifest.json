@@ -1,11 +1,12 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.0",
+	"id": "lyles-plugin",
+	"name": "Lyles Plugin",
+	"version": "0.1.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Lyles Plugin for Obsidian",
+	"author": "Lyle Peters",
+	"authorUrl": "https://hifrontiersoftware.xyz",
+	"fundingUrl": "https://hifrontiersoftware.xyz/funding",
 	"isDesktopOnly": false
 }
+
